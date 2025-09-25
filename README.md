@@ -30,7 +30,8 @@ S102, Bob, ECE, 8.5
 
 ---
 ### Sample Output
-Student ID   : S102 
+Student ID   : S102
+
 Student Name : Bob  
 Department   : ECE  
 CGPA         : 8.5
