@@ -30,9 +30,11 @@ S102, Bob, ECE, 8.5
 
 ---
 ### Sample Output
-Student Name     Department     CGPA     ID
-------------     ----------     ----     ---
-Bob              ECE            8.5      S102
+Student ID   : S102 
+Student Name : Bob  
+Department   : ECE  
+CGPA         : 8.5
+
 
 
 
