@@ -26,29 +26,26 @@ POJOs are ideal for:
 ---
 
 ## 📥 Sample Input Format
-101, Alex, CSE, 9.2
-102, Bob, ECE, 8.5
+S102, Bob, ECE, 8.5
 
 ---
 
 ## 📤 Sample Output
 Student 1
-Student Id : S101
-Student Name : Alice
-Department : CSE
-CGPA : 9.2
-
-Student 2
 Student Id : S102
 Student Name : Bob
 Department : ECE
 CGPA : 8.5
 
----
+
+
+
+
+
 
   
 
----
+
 
 
 
